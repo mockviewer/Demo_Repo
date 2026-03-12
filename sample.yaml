@@ -1,0 +1,7 @@
+ vi sample.yaml
+person:
+  name: John Doe
+  age: 30
+  address:
+    city: Pune
+    country: India
